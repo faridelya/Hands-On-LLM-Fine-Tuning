@@ -8,6 +8,7 @@ Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techn
 
 ## Full Fine-Tunning ##
 * [Training GPT-2 From Scratch: A Step-by-Step Guide](https://medium.com/gitconnected/training-gpt-2-from-scratch-a-step-by-step-guide-844bb7fc5f94?sk=0253e805c4d3a262994cdfe2ca0029c7)
+* [Fine Tuning Vision Gemma ](https://ai.google.dev/gemma/docs/core/huggingface_vision_finetune_qlora)
 
 ## Parameter Efficient Fine-Tuning (PEFT) ## 
 * [Finetune Falcon-7b with LoRA: A Step-by-Step Guide](https://medium.com/gitconnected/finetune-falcon-7b-with-lora-a-step-by-step-guide-cd11b06f5ef5?sk=443a96715dea7b1810911124c4ea04c2)
@@ -22,3 +23,4 @@ Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techn
   
 ## Fine-Tunning Frameworks ##
 * [Fine-Tuning Mistral 7B with Hugging Face AutoTrain to Generate Better Midjourney Prompts](https://medium.com/gitconnected/fine-tuning-mistral-7b-with-hugging-face-autotrain-to-generate-better-midjourney-prompts-fb96057c138a?sk=84ab8c1c81987290333d482d285ed0fd)
+  
